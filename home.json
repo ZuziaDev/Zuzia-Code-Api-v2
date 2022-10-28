@@ -1,0 +1,51 @@
+{
+  "owner": "⛦ Zuzia RodzeN#0002",
+  "discord_server": "https://discord.gg/4xSNybftYg",
+  "endpoints": {
+    "nsfw": [
+      "/nsfw/pussy",
+      "/nsfw/ass",
+      "/nsfw/bdsm",
+      "/nsfw/cum",
+      "/nsfw/gifs",
+      "/nsfw/hentai",
+      "/nsfw/maid",
+      "/nsfw/wallpaper",
+      "/nsfw/boobs",
+      "/nsfw/anal",
+      "/nsfw/lewdneko"
+      
+    ],
+  "utils": {
+    "time": [
+      "/time"
+    ]
+   },
+   "funs":{
+    "games":[
+      "/games/8ball"
+    ]
+   },
+   "döviz":{
+       "döviz":[
+      "/doviz/dolar",
+      "/doviz/euro",
+       ]
+   },
+   "images": {
+    "anime": [
+      "/anime/foxgirl",
+      "/anime/neko",
+      "/anime/zerotwo"
+    ],
+    "animals": [
+      "/animals/dog",
+      "/animals/cat",
+      "/animals/panda",
+      "/animals/fox",
+      "/animals/toad",
+      "/animals/ferret"
+    ]
+  }
+}
+}
